@@ -14,6 +14,7 @@ public class demo2 {
 		al.add(15.5);
 		al.add('a');
 		al.add(true);
+		al.add("hello world");
 		
 		System.out.println(al);
 		
