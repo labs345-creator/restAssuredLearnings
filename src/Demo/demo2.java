@@ -18,7 +18,7 @@ public class demo2 {
 		System.out.println(al);
 		
 		System.out.println(al.size());
-		
+		System.out.print("hello world");
 		al.remove(1); //index
 		//al.remove(("welcome"); //object
 		System.out.println(al);
